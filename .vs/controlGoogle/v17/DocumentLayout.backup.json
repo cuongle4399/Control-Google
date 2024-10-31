@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}|controlGoogle\\controlGoogle.csproj|c:\\users\\cuong le\\desktop\\c# winform\\controlgoogle\\controlgoogle\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}|controlGoogle\\controlGoogle.csproj|solutionrelative:controlgoogle\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}|controlGoogle\\controlGoogle.csproj|C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlgoogle\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}|controlGoogle\\controlGoogle.csproj|solutionrelative:controlgoogle\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}|controlGoogle\\controlGoogle.csproj|C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlgoogle\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}|controlGoogle\\controlGoogle.csproj|solutionrelative:controlgoogle\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}|controlGoogle\\controlGoogle.csproj|C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlgoogle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}|controlGoogle\\controlGoogle.csproj|solutionrelative:controlgoogle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}|controlGoogle\\controlGoogle.csproj|C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlgoogle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}|controlGoogle\\controlGoogle.csproj|solutionrelative:controlgoogle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}|controlGoogle\\controlGoogle.csproj|C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlgoogle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}|controlGoogle\\controlGoogle.csproj|solutionrelative:controlgoogle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}|controlGoogle\\controlGoogle.csproj|C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlgoogle\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}|controlGoogle\\controlGoogle.csproj|solutionrelative:controlgoogle\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlGoogle\\Form3.cs",
+              "RelativeDocumentMoniker": "controlGoogle\\Form3.cs",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlGoogle\\Form3.cs [Design]",
+              "RelativeToolTip": "controlGoogle\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:08:35.41Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlGoogle\\Form2.cs",
+              "RelativeDocumentMoniker": "controlGoogle\\Form2.cs",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlGoogle\\Form2.cs",
+              "RelativeToolTip": "controlGoogle\\Form2.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAqwNoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:28:04.888Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlGoogle\\Form3.cs",
+              "RelativeDocumentMoniker": "controlGoogle\\Form3.cs",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlGoogle\\Form3.cs",
+              "RelativeToolTip": "controlGoogle\\Form3.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:18:52.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlGoogle\\Form1.cs",
+              "RelativeDocumentMoniker": "controlGoogle\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlGoogle\\Form1.cs [Design]",
+              "RelativeToolTip": "controlGoogle\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:24:01.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlGoogle\\Program.cs",
+              "RelativeDocumentMoniker": "controlGoogle\\Program.cs",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlGoogle\\Program.cs",
+              "RelativeToolTip": "controlGoogle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:21:38.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlGoogle\\Form2.cs",
+              "RelativeDocumentMoniker": "controlGoogle\\Form2.cs",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlGoogle\\Form2.cs [Design]",
+              "RelativeToolTip": "controlGoogle\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:20:11.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlGoogle\\Form1.cs",
+              "RelativeDocumentMoniker": "controlGoogle\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\controlGoogle\\controlGoogle\\Form1.cs",
+              "RelativeToolTip": "controlGoogle\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAawFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:34:12.761Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 192,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
