@@ -34,3 +34,10 @@ C:\Users\Cuong Le\Desktop\C# winform\controlGoogle\controlGoogle\obj\Debug\contr
 C:\Users\Cuong Le\Desktop\C# winform\controlGoogle\controlGoogle\obj\Debug\controlGoogle.pdb
 C:\Users\Cuong Le\Desktop\C# winform\controlGoogle\controlGoogle\obj\Debug\controlGoogle.frmhome.resources
 C:\Users\Cuong Le\Desktop\C# winform\controlGoogle\controlGoogle\obj\Debug\controlGoogle.frmChatGpt.resources
+C:\Users\Cuong Le\Desktop\C# winform\controlGoogle\controlGoogle\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cuong Le\Desktop\C# winform\controlGoogle\controlGoogle\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cuong Le\Desktop\C# winform\controlGoogle\controlGoogle\obj\Debug\controlGoogle.frmCMD.resources
+C:\Users\Cuong Le\Desktop\C# winform\controlGoogle\controlGoogle\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Cuong Le\Desktop\C# winform\controlGoogle\controlGoogle\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Cuong Le\Desktop\C# winform\controlGoogle\controlGoogle\obj\Debug\controlGoogle.frmPicture.resources
+C:\Users\Cuong Le\Desktop\C# winform\controlGoogle\controlGoogle\bin\Debug\SeleniumExtras.WaitHelpers.dll

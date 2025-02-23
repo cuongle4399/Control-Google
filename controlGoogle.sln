@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controlGoogle", "controlGoogle\controlGoogle.csproj", "{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GoogleControl", "GoogleControl\GoogleControl.vdproj", "{8F96BABC-B43F-4E43-9C3D-B45DFA223B47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52B0333C-A3E4-4AE3-9B06-7A3D634996FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F96BABC-B43F-4E43-9C3D-B45DFA223B47}.Debug|Any CPU.ActiveCfg = Debug
+		{8F96BABC-B43F-4E43-9C3D-B45DFA223B47}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -30,8 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmcontrol));
             this.panel1 = new System.Windows.Forms.Panel();
-            this.btnSupport = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.pnmenu = new System.Windows.Forms.Panel();
             this.btncontrol = new System.Windows.Forms.Button();
@@ -53,8 +53,8 @@
             // 
             this.panel1.AutoScroll = true;
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(30)))), ((int)(((byte)(45)))));
-            this.panel1.Controls.Add(this.btnSupport);
-            this.panel1.Controls.Add(this.button6);
+            this.panel1.Controls.Add(this.button5);
+            this.panel1.Controls.Add(this.button3);
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.pnmenu);
             this.panel1.Controls.Add(this.btncontrol);
@@ -64,29 +64,30 @@
             this.panel1.Size = new System.Drawing.Size(318, 499);
             this.panel1.TabIndex = 0;
             // 
-            // btnSupport
+            // button5
             // 
-            this.btnSupport.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnSupport.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btnSupport.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSupport.Location = new System.Drawing.Point(0, 254);
-            this.btnSupport.Name = "btnSupport";
-            this.btnSupport.Size = new System.Drawing.Size(318, 61);
-            this.btnSupport.TabIndex = 14;
-            this.btnSupport.Text = "Support";
-            this.btnSupport.UseVisualStyleBackColor = true;
+            this.button5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button5.Dock = System.Windows.Forms.DockStyle.Top;
+            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.Location = new System.Drawing.Point(0, 254);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(318, 61);
+            this.button5.TabIndex = 16;
+            this.button5.Text = "Support";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
-            // button6
+            // button3
             // 
-            this.button6.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button6.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button6.Location = new System.Drawing.Point(0, 193);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(318, 61);
-            this.button6.TabIndex = 12;
-            this.button6.Text = "Messenger";
-            this.button6.UseVisualStyleBackColor = true;
+            this.button3.Dock = System.Windows.Forms.DockStyle.Top;
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Location = new System.Drawing.Point(0, 193);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(318, 61);
+            this.button3.TabIndex = 15;
+            this.button3.Text = "CMD Windows";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click_1);
             // 
             // button2
             // 
@@ -244,9 +245,9 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel pnmenu;
-        private System.Windows.Forms.Button btnSupport;
-        private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button button3;
     }
 }
 
